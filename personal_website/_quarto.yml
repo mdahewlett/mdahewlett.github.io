@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "personal_website"
+  title: "Michael Hewlett"
   navbar:
     left:
       - href: index.qmd
